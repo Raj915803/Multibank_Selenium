@@ -1,0 +1,28 @@
+
+{
+ "login": {
+  "email": "vv98765@gmail.com",
+  "password": "vv987654321"
+ },
+"navigationMenu":[
+"Markets",
+"Spot",
+"Futures",
+"Trade",
+"About"
+],
+
+"tradingPairs":[
+"BTC/USDT",
+"ETH/USDT",
+"BNB/USDT"
+],
+
+"bannerText":"Trade with Confidence",
+
+"downloadLinks":{
+"appStore":"https://apps.apple.com",
+"googlePlay":"https://play.google.com"
+}
+
+}
