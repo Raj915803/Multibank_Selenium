@@ -1,0 +1,11 @@
+<suite name="MultiBankSuite">
+
+	<test name="MultiBankTest">
+
+		<classes>
+			<class name="runners.TestRunner" />
+		</classes>
+
+	</test>
+
+</suite>
